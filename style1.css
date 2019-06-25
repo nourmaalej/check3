@@ -1,0 +1,56 @@
+body{
+	
+
+       background:linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%);
+
+height: 2000px;
+     
+
+
+}
+div{
+
+padding-left:50px;
+padding-right:50px;
+padding-bottom:50px;
+padding-top:50px;
+margin-top:20px;
+margin-bottom:30px;
+
+}
+.class{
+
+
+margin-top:20px;
+margin-bottom:30px;
+
+
+}
+#lolo{
+	display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+
+
+
+}
+ol li {
+	display:inline-block;
+	font-size:25px;
+	margin-left:70px;
+
+	 
+
+}
+
+
+.nav-style {
+	width: 100%;
+	background-color:grey;
+
+height: 50px;
+     
+
+
+}
